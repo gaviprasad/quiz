@@ -1,0 +1,55 @@
+.redbg{
+    background-color: red;
+    height:1000px;
+    border-left-width: 10;
+
+}
+
+.bluebg{
+    background-color: rgb(47, 47, 228);
+    height:100px;
+    text-align: center;
+    }
+
+.greenbg{
+    background-color: green;
+    height:100px;
+}
+.yellowbg{
+    background-color: yellow;
+    height:100px;
+}
+
+.fillpage{
+    height:100vh;
+    background-color: rgb(48, 162, 182);
+    padding-left: 20vw;
+    padding-top: 20vh;
+}
+.card{
+    height:60vh;
+    width:60vw;
+}
+
+.card-quiz-top{
+    height:20%;
+}
+.card-quiz-middle{
+    height:60%;
+    padding-left: 5vw;
+   
+}
+card-quiz-bottom{
+    height:20%;
+    
+}
+.align{
+    padding-left:10% ;
+    padding-right:10% ;
+    padding-top:1% ;
+}
+.col-sm-12{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-style: oblique;
+}
